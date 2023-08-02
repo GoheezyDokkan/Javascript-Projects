@@ -48,3 +48,5 @@ function main3() { // Defining a function
 function main4() { // Defining a function
     document.getElementById("main4").innerHTML = (5 > 10 || 10 > 20); // Establishing a causality condition utilizing the || operator that returns a boolean false
 }
+
+document.write(typeof true);
