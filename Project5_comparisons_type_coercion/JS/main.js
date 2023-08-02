@@ -50,3 +50,11 @@ function main4() { // Defining a function
 }
 
 document.write(typeof true);
+
+function myFunction3() {
+    document.getElementById("Function3").innerHTML = (5 < 10);
+}
+
+function myFunction4() {
+    document.getElementById("Function4").innerHTML = (10 < 5);
+}
