@@ -9,7 +9,7 @@
 
 <body>
     <h1 class="title-text">Image Slideshow</h1>
-    <p class="title-text">Click one of the bullet points to enable the slideshow.</p>
+    <p class="title-text">Click one of the dots to enable the slideshow.</p>
     <script src="JS/main.js"></script>
 
     <!-- Slideshow container -->
@@ -46,9 +46,16 @@
         <span class="dot" onclick="currentSlide(2)"></span>
         <span class="dot" onclick="currentSlide(3)"></span>
     </div>
+
+    <div class="countdown-div">
+        <p>How many seconds would you like to set your alarm for?</p>
+        <input id="seconds" value="" />
+        <button onclick="countdown()">Click here</button>
+        <p id="timer"></p>
+    </div>
     
 </body>
 
-<footer></footer>
+<footer>Gustavo Ruiz | &copy; 2023</footer>
 
 </html>

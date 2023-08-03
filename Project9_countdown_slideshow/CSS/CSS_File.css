@@ -5,6 +5,16 @@
     text-align: center;
 }
 
+/* Center title text class */
+.countdown-div {
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
