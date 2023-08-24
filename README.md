@@ -2,9 +2,9 @@
 This is a repository for my JavaScript projects.
 
 <ul>
-  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/">Pizza Menu</a></li>
-  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/">Tic-Tac-Toe Game</a></li>
-  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/">Calculator</a></li>
+  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/Pizza_project">Pizza Menu</a></li>
+  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/Calculator">Tic-Tac-Toe Game</a></li>
+  <li><a href="https://github.com/GoheezyDokkan/Javascript-Projects/TicTacToe">Calculator</a></li>
 </ul>
 
 # Pizza Menu
